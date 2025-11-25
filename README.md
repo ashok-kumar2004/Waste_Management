@@ -15,9 +15,7 @@
 - Users can report sanitation issues through the app.
 - Community-led participation in cleanup drives and public hygiene improvement.
 
-### 🕹️ Gamified Educational Content
-- Quizzes, infographics, and videos to raise awareness.
-- Reward system to encourage learning and participation.
+
 
 ### 🔄 Waste Exchange Marketplace
 - A platform for individuals and industries to **exchange waste as raw material**.
